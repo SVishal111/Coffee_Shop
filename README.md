@@ -1,4 +1,4 @@
-<h1 align="center">☕ Coffee Shop – The Developer's First Brew</h1>
+<h1 align="center">☕ Coffee Shop – A Developer's First Brew</h1>
 
 <p align="center">
   Not just another website. This is <em>the</em> website — the one almost every aspiring front-end developer brews up while learning the basics.
